@@ -1,0 +1,295 @@
+Restaurant Name,Cuisine Type,Address,City,Province/State,Postal/Zip Code,Phone Number,Price Range (per person),Average Rating (out of 5),Number of Reviews
+The Keg,Steakhouse,123 Main St,Toronto,Ontario,M5V 1J1,(416) 555-1234,$40-$60,4.5,500
+Sushi Garden,Japanese,789 5th St,Vancouver,British Columbia,V5T 1C6,(604) 555-9012,$20-$30,4.2,300
+La Belle Province,Fast Food,987 Rue Sainte-Catherine,Montreal,Quebec,H2L 2G2,(514) 555-3456,$5-$10,3.5,200
+Tres Carnales Taqueria,Mexican,10119 100a St,Edmonton,Alberta,T5J 0R5,(780) 555-2345,$15-$25,4.6,150
+Le Garde-Manger,French,408 Rue Saint-Francois-Xavier,Montreal,Quebec,H2Y 2S9,(514) 555-7890,$40-$60,4.8,100
+The Fish Counter,Seafood,3825 Main St,Vancouver,British Columbia,V5V 3P1,(604) 555-5678,$20-$30,4.4,400
+Momofuku Noodle Bar,Asian Fusion,190 University Ave,Toronto,Ontario,M5H 0A3,(416) 555-9012,$20-$30,4.7,250
+The Green Olive,Mediterranean,123 Main St,Toronto,Ontario,M5V 3V5,(416) 555-1234,$30-$50,4.2,350
+The Blue Crab,Seafood,456 7th Ave,Vancouver,British Columbia,V5L 1C8,(647) 123-4567,$20-$40,4.3,125
+The Red Tomato,Italian,789 5th St,Montreal,Quebec,H3C 1T4,(604) 555-7890,$10-$30,4.5,586
+The Yellow Submarine,Sandwiches,987 Rue Sainte-Catherine,Quebec,Quebec,G1R 3Y7,(780) 555-4321,$20-$30,2.5,369
+The Purple Eggplant,Italian,321 Magnolia Blvd,Calgary,Alberta,T2V 0X2,(514) 555-2468,$5-$10,5.0,756
+The Orange Peel,Juice Bar,10119 100a St,Edmonton,Alberta,T5J 0E8,(902) 555-1357,$25-$65,3.5,248
+The White Rabbit,French,408 Rue Saint-Francois-Xavier,Montreal,Quebec,H2Y 2S9,(613) 555-8642,$15-$35,4.6,359
+The Black Sheep,Gastropub,3825 Main St,Vancouver,British Columbia,V5V 3N8,(306) 555-9701,$20-$40,4.1,300
+The Golden Goose,French,1015 South Figueroa St,Toronto,Ontario,M5E 1N1,(905) 555-2233,$10-$30,3.7,250
+The Silver Spoon,Italian,190 University Ave,Ottawa,Ontario,K1N 6N5,(902) 555-8712,$30-$50,4.9,550
+The Rusty Bucket,Pub Food,5678 Yonge St,Toronto,Ontario,M2M 3V2,(778) 555-6677,$20-$30,4.4,630
+The Copper Kettle,British,987 Queen St,Ottawa,Ontario,K1P 5E4,(306) 555-4433,$5-$10,4.6,120
+The Wooden Spoon,Comfort Food,123 Main St,Vancouver,British Columbia,V6A 2S5,(902) 555-6654,$30-$60,4.0,348
+The Brick Oven,Pizza,456 7th Ave,Calgary,Alberta,T2G 0H5,(613) 555-9187,$15-25,1.5,751
+The Stone Grill,Steakhouse,789 5th St,Quebec,Quebec,G1R 3Z9,(416) 555-3456,$30-50,2.6,150
+The Iron Chef,Japanese,987 Rue Sainte-Catherine,Montreal,Quebec,H2L 2G6,(587) 555-9887,$5-15,4.3,350
+The Spice Box,Indian,321 Magnolia Blvd,Edmonton,Alberta,T6R 0S4,(450) 555-6789,$10-$20,2.3,450
+The Sweet Spot,Desserts,10119 100a St.,Vancouver,British Columbia,V6Z 1N6,(902) 555-9812,$40-$60,4.5,930
+The Bitter End,Bar Food,408 Rue Saint-Francois-Xavier,Quebec,Quebec,G1K 4W8,(519) 555-7261,$10-$20,4.0,100
+The Funky Chicken,Southern,3825 Main St,Toronto,Ontario,M4C 1J6,(905) 555-8876,$20-$30,4.2,120
+The Hot Potato,French,1015 South Figueroa St,Vancouver,British Columbia,V6Z 1N6,(705) 555-4312,$5-$10,3.5,300
+The Cold Plate,Salad,190 University Ave,Montreal,Quebec,H3A 2A7,(613) 555-1987,$30-$50,4.3,400
+The Toasty Bun,Burgers,5678 Yonge St,Toronto,Ontario,M2N 5S2,(902) 555-4123,$15-$25,4.6,125
+The Smokin' Grill,BBQ,987 Queen St,Ottawa,Ontario,K1P 5C7,(902) 555-4321,$40-$60,4.8,150
+The Fresh Catch,Seafood,123 Main St,Montreal,Quebec,H2Y 1B6,(416) 555-5678,$20-$30,4.4,800
+The Juicy Burger,Burgers,456 7th Ave,Vancouver,British Columbia,V5T 1N8,(613) 555-2222,$10-$20,4.1,633
+The Crispy Crunch,Comfort Food,789 5th St,Calgary,Alberta,T2G 1Y9,(604) 555-9876,$20-$30,4.7,500
+Ay Caramba,Mexican,"123 Main St, Toronto, ON",Toronto,Ontario,M4C 1S5,(902) 555-4123,$10-$15,4.5,174
+Blue Canoe Waterfront Restaurant,Seafood,"386 Front St, New Westminster, BC",New Westminster,British Columbia,V3L 1A6,(902) 555-4321,$11-$19,4.0,183
+Burrito Bandidos,Mexican,"1015 Main St, Vancouver, BC",Vancouver,British Columbia,V6A 4L4,(416) 555-5678,$12-$20,4.2,368
+Cafe du Monde,French,"850 Rue Saint Jean, Quebec City, QC",Quebec,Quebec,G1R 1R3,(613) 555-2222,$13-$22,3.5,243
+Catch 122 Cafe Bistro,Canadian,"122 W Hastings St, Vancouver, BC",Vancouver,British Columbia,V6B 1G8,(514) 555-3456,$40-$60,4.6,240
+Coast,Seafood,"1257 Hamilton St, Vancouver, BC",Vancouver,British Columbia,V6B 6K3,(905) 555-6789,$20-$30,4.8,217
+Di Beppe Restaurant,Italian,"8 W Cordova St, Vancouver, BC",Vancouver,British Columbia,V6B 1C9,(506) 555-0123,$5-$10,4.4,207
+El Catrin,Mexican,"18 Tank House Lane, Toronto, ON",Toronto,Ontario,M5A 3C4,(613) 555-6543,$15-$25,4.1,315
+Farmer's Apprentice,Canadian,"1535 W 6th Ave, Vancouver, BC",Vancouver,British Columbia,V6J 1R1,(902) 555-2222,$40-$60,4.7,178
+Fishbone By The Lake,Seafood,"235 Queen St W, Toronto, ON",Toronto,Ontario,M5V 1Z4,(780) 555-5432,$20-$30,4.2,178
+Gotham Steakhouse & Bar,Steakhouse,"615 Seymour St, Vancouver, BC",Vancouver,British Columbia,V6B 3K3,(514) 555-8765,$20-$30,4.3,299
+Grand Electric,Mexican,"1330 Queen St W, Toronto, ON",Toronto,Ontario,M6K 1L4,(902) 555-1234,$30-$50,4.5,401
+Hawksworth Restaurant,Canadian,"801 W Georgia St, Vancouver, BC",Vancouver,British Columbia,V6C 1P7,(705) 555-6789,$20-$40,2.5,372
+Honest Weight,Seafood,"277 Front St W, Toronto, ON",Toronto,Ontario,M5V 2X4,(416) 555-9876,$10-$30,5.0,307
+Jolly Roger Seafood House,Seafood,"1511 Johnson St, Victoria, BC",Victoria,British Columbia,V8W 1M7,(519) 555-4321,$20-$30,3.5,389
+Keg Steakhouse & Bar,Steakhouse,"688 Dunsmuir St, Vancouver, BC",Vancouver,British Columbia,V6B 1N3,(604) 555-0123,$5-$10,4.6,423
+La Banquise,Poutine,"994 Rue Rachel E, Montreal, QC",Montreal,Quebec,H2J 2J3,(905) 555-3210,$25-$65,4.1,236
+Lee Restaurant,Asian Fusion,"601 King St W, Toronto, ON",Toronto,Ontario,M5V 1M5,(506) 555-4567,$15-$35,3.7,392
+Les 3 Brasseurs,French,"105 Rue Saint Paul Est, Montreal, QC",Montreal,Quebec,H2Y 1G7,(613) 555-7654,$20-$40,4.9,391
+Little Sheep Mongolian Hot Pot,Chinese,"5300 No 3 Rd #405, Richmond, BC",Richmond,British Columbia,V6X 2X9,(902) 555-8888,$10-$30,4.4,129
+L'Original,Poutine,"4760 Rue Sainte-Catherine E, Montreal, QC",Montreal,Quebec,H1V 1Z5,(604) 555-9876,$30-$50,4.6,415
+Miku,Japanese,"70-200 Granville St, Vancouver, BC",Vancouver,British Columbia,V6C 1S4,(902) 555-6789,$20-$30,4.0,214
+Bistro 1060,French,1060 Yonge,Toronto,Ontario,M4T 2Z6,(905)-555-1234,$5-$10,1.5,155
+The Keg,Steakhouse,4th Ave SW,Calgary,Alberta,T2P 0M5,647-555-6789,$30-$60,2.6,176
+La Taqueria Pinche Taco Shop,Mexican,2450 Yukon St,Vancouver,British Columbia,V6A 2W5,416-555-9876,$15-25,4.3,369
+Sushi Kaji,Japanese,860 The Queensway,Etobicoke,Ontario,M9C 1A3,604-555-4321,$30-50,2.3,295
+Joe Beef,French,2491 Rue Notre Dame O,Montreal,Quebec,H2T 2S3,403-555-8765,$5-15,4.5,324
+Vij's,Indian,3106 Cambie St,Vancouver,British Columbia,V6H 2J2,514-555-2345,$10-$20,4.0,484
+Canoe,Canadian,66 Wellington St W,Toronto,Ontario,M5J 2N6,613-555-7890,$40-$60,4.2,355
+Hawksworth Restaurant,Canadian,801 West Georgia St,Vancouver,British Columbia,V6B 2G3,902-555-3210,$10-$20,3.5,319
+Black Hoof,Charcuterie,928 Dundas St W,Toronto,Ontario,M6J 1W8,519-555-6543,$20-$30,4.3,132
+Little Sheep Mongolian Hot Pot,Mongolian,1788 W Broadway #201,Vancouver,British Columbia,V6B 6A8,306-555-2109,$5-$10,4.6,203
+L'Express,French,3927 Rue Saint Denis,Montreal,Quebec,H2X 2S8,450-555-3456,$30-$50,4.8,187
+Miku,Japanese,10 Bay St #105,Toronto,Ontario,M5V 3M5,778-555-9876,$15-$25,4.4,163
+Tres Carnales Taqueria,Mexican,10119 100A St NW,Edmonton,Alberta,T5J 0H7,587-555-1234,$40-$60,4.1,290
+The Coup,Vegetarian,924 17 Ave SW,Calgary,Alberta,T2T 0A5,867-555-6789,$20-$30,4.7,219
+Lee,Asian Fusion,601 King St W,Toronto,Ontario,M5V 2V4,250-555-4321,$10-$20,4.5,167
+Au Pied de Cochon,French,536 Avenue Duluth E,Montreal,Quebec,H2S 2S3,902-555-8765,$40-$60,4.0,314
+Vij's Rangoli,Indian,1488 W 11th Ave,Vancouver,British Columbia,V6H 3G8,418-555-2345,$10-$20,4.2,327
+Pure Spirits Oyster House & Grill,Seafood,17 Tank House Ln,Toronto,Ontario,M5A 1K3,902-555-7890,$20-$30,3.5,371
+Bymark,Canadian,66 Wellington St W,Toronto,Ontario,M5J 2H7,604-555-3210,$5-$10,4.3,387
+The Fish Counter,Seafood,3825 Main St,Vancouver,British Columbia,V5T 1H2,819-555-6543,$30-$50,4.6,300
+Wildflower Grill,Canadian,10009 107 St NW,Edmonton,Alberta,T5K 1B1,306-555-2109,$15-$25,4.8,382
+Bar Raval,Spanish,505 College St,Toronto,Ontario,M6J 2Z7,902-555-3456,$40-$60,4.4,147
+Milestones,Canadian,90 115 9 Ave SE,Calgary,Alberta,T2H 0K8,416-555-9876,$20-$30,4.1,298
+Oyster Boy,Seafood,872 Queen St W,Toronto,Ontario,M6J 1W8,902-555-1234,$10-$20,4.7,214
+Rino's Kitchen & Ale House,Italian,131 Elliott St W,Windsor,Ontario,N9A 5Y9,613-555-6789,$20-$30,4.2,273
+F&B Walkerville,Canadian,1086 Wyandotte St E,Windsor,Ontario,N9A 3K1,450-555-4321,$30-$50,4.3,262
+Mazaar Lebanese Cuisine,Middle Eastern,372 Ouellette Ave,Windsor,Ontario,N9A 1A6,418-555-8765,$20-$40,4.5,359
+The Grand Cantina,Mexican,646 Victoria Ave,Windsor,Ontario,N9A 4N1,587-555-2345,$10-$30,2.5,258
+Green Bean Cafe,Cafe,2320 Wyandotte St W,Windsor,Ontario,N9B 1K3,403-555-7890,$20-$30,5.0,342
+Armando's Pizza,Italian,326 CAlbertaana Rd E,Windsor,Ontario,N9G 1A3,705-555-3210,$5-$10,3.5,417
+Bubi's Awesome Eats,American,585 Ouellette Ave,Windsor,Ontario,N9A 4J4,819-555-6543,$25-$65,4.6,424
+Chanoso's Restaurant,Chinese,255 Ouellette Ave,Windsor,Ontario,N9A 4H9,902-555-2109,$15-$35,4.1,141
+The Carvery,Canadian,119 Chatham St E,Windsor,Ontario,N9A 2W1,250-555-3456,$20-$40,3.7,470
+Sarducci's Pizzeria,Italian,435 Tecumseh Rd E,Windsor,Ontario,N8X 2R5,905-555-9876,$10-$30,4.9,232
+The Twisted Apron,Canadian,1833 Wyandotte St E,Windsor,Ontario,N8Y 1E4,819-555-1234,$30-$50,4.4,329
+Pho Maxim,Vietnamese,794 Lauzon Rd,Windsor,Ontario,N8S 3M8,587-555-6789,$20-$30,4.6,296
+Motor Burger,American,888 Erie St E,Windsor,Ontario,N9A 3Y6,613-555-4321,$5-$10,4.0,218
+The G.O.A.T Tap & Eatery,Canadian,1461 Ottawa St,Windsor,Ontario,N8X 2G1,902-555-8765,$30-$60,1.5,315
+El - Mayor,Mexican,1549 Tecumseh Rd E,Windsor,Ontario,N8W 1C5,514-555-2345,$15-25,2.6,304
+Sushi California,Japanese,1585 Wyandotte St E,Windsor,Ontario,N9A 3L2,778-555-7890,$30-50,4.3,109
+Spago Trattoria E Pizzeria,Italian,690 Erie St E,Windsor,Ontario,N9A 3Y9,306-555-3210,$5-15,2.3,451
+Nola's Restaurant,Cajun,779 Ouellette Ave,Windsor,Ontario,N9A 4J4,902-555-6543,$10-$20,4.5,231
+The Squirrel Cage,Canadian,1280 Walker Rd,Windsor,Ontario,N8Y 4T4,450-555-2109,$40-$60,4.0,310
+Chanoso's Restaurant,Japanese,255 Ouellette Ave,Windsor,Ontario,N9A 4H9,418-555-3456,$10-$20,4.2,454
+The City Grill,Canadian,375 Ouellette Ave,Windsor,Ontario,N9A 4J1,705-555-9876,$20-$30,3.5,197
+Foia Ristorante,Italian,1614 Lesperance Rd,Windsor,Ontario,N8N 1Y2,867-555-1234,$5-$10,4.3,498
+Mamo Burger Bar,American,1515 Ottawa St,Windsor,Ontario,N8X 2G4,902-555-6789,$30-$50,4.6,201
+Villa Rosa,Italian,600 Erie St E,Windsor,Ontario,N9A 3X3,587-555-4321,$15-$25,4.8,154
+Taka Japanese Restaurant,Japanese,2575 Ouellette Ave,Windsor,Ontario,N8X 1L6,613-555-8765,$40-$60,4.4,395
+Windsor Palace Restaurant,Chinese,3203 Woodland Ave,Windsor,Ontario,N8W 3Z1,250-555-2345,$20-$30,4.1,280
+Mezzo Ristorante & Lounge,Italian,804 Erie St E,Windsor,Ontario,N9A 3Y4,902-555-7890,$10-$20,4.7,418
+The Loose Goose RestoPub,Canadian,126 Ouellette Pl,Windsor,Ontario,N8X 1L9,819-555-3210,$20-$30,4.5,478
+The Manchester,Pub,546 Ouellette Ave,Windsor,Ontario,N9A 1B3,306-555-6543,$10-$15,4.0,233
+Pomegranate Restaurant,Middle Eastern,375 Pelissier St,Windsor,Ontario,N9A 4K8,418-555-2109,$11-$19,4.2,184
+The Church Key Bistro Pub,Canadian,476 Richmond St,London,Ontario,N6A 3E6,604-555-3456,$12-$20,3.5,455
+David's Bistro,French,432 Richmond St,London,Ontario,N6A 3C9,450-555-9876,$40-$60,4.3,157
+Albertaruzzi Ristorante,Italian,119 King St,London,Ontario,N6A 1C3,902-555-1234,$10-$20,4.6,494
+Garlic's Of London,Canadian,481 Richmond St,London,Ontario,N6A 3E4,705-555-6789,$20-$30,4.8,196
+Blu Duby,Canadian,125 King St,London,Ontario,N6A 1C3,819-555-4321,$5-$10,4.4,251
+The Morrissey House,Canadian,361 Dundas St,London,Ontario,N6B 1V5,587-555-8765,$30-$50,4.1,327
+Fellini Koolini's,Italian,155 Albert St,London,Ontario,N6A 1L9,514-555-2345,$15-$25,4.7,131
+Bertoldi's Trattoria,Italian,650 Richmond St,London,Ontario,N6A 3G6,250-555-7890,$40-$60,4.2,276
+Michaels On The Thames,Canadian,1 York St,London,Ontario,N6A 1A1,306-555-3210,$20-$30,4.3,365
+Thaifoon,Thai,120 Dundas St,London,Ontario,N6A 1E8,902-555-6543,$10-$20,4.5,187
+The Tasting Room,Canadian,483 Richmond St,London,Ontario,N6A 3E4,403-555-2109,$20-$30,2.5,188
+Garlic's Of London,Canadian,175 King St,London,Ontario,N6A 1C9,418-555-3456,$30-$50,5.0,405
+Black Trumpet,Canadian,523 Richmond St,London,Ontario,N6A 3E8,613-555-9876,$20-$40,3.5,118
+Zen Gardens,Chinese,344 Dundas St,London,Ontario,N6B 1V7,250-555-1234,$10-$30,4.6,277
+The Bungalow,Canadian,599 York St,London,Ontario,N6B 1R6,450-555-6789,$20-$30,4.1,438
+Blu Duby North,Canadian,1680 Richmond St,London,Ontario,N6G 3Y9,819-555-4321,$5-$10,3.7,329
+Demetre's Family Eatery,Canadian,19 Springbank Ave N,London,Ontario,N6J 1G6,902-555-8765,$25-$65,4.9,443
+Thaifoon,Thai,120 Dundas St,London,Ontario,N6A 1E8,705-555-2345,$15-$35,4.4,287
+Nava,Indian,460 Richmond St,London,Ontario,N6A 1C1,867-555-7890,$20-$40,4.6,174
+London Curry House,Indian,433 King St,London,Ontario,N6B 1S5,514-555-3210,$10-$30,4.0,183
+Olive R. Twists,Canadian,130 King St,London,Ontario,N6A 1C5,587-555-6543,$30-$50,1.5,368
+Qdoba,Mexican,1680 Richmond St,London,Ontario,N6G 3Y9,403-555-6985,$20-$30,2.6,243
+Paparella's Italian Restaurant,Italian,622 Dundas St,London,Ontario,N5W 2Z1,416-555-5678,$5-$10,4.3,489
+Tamarine By Quynh Nhi,Vietnamese,550 Wellington Rd,London,Ontario,N6C 4R3,613-555-2345,$30-$60,2.3,240
+Manchuria Garden,Chinese,425 Richmond St,London,Ontario,N6A 3C4,450-555-6789,$15-25,4.5,217
+Winks Eatery,Canadian,551 Richmond St,London,Ontario,N6A 3E9,902-555-4321,$30-50,4.0,207
+Locomotive Espresso,Cafe,408 Pall Mall St,London,Ontario,N5Y 2Z6,306-555-8765,$5-15,4.2,315
+The Early Bird,Canadian,355 Talbot St,London,Ontario,N6A 2R5,778-555-2109,$10-$20,3.5,178
+Mongolian Grill,Mongolian,645 Wellington Rd,London,Ontario,N6C 4R4,250-555-3456,$40-$60,4.3,178
+Amaya Express,Indian,1205 Western Rd,London,Ontario,N6G 1G5,902-555-9876,$10-$20,4.6,299
+The River Room,Canadian,19 King St,London,Ontario,N6A 1C2,514-555-1234,$20-$30,4.8,401
+Gusto Food,Canadian,131 Talbot St,London,Ontario,N6A 2C5,587-555-6789,$5-$10,4.4,372
+Plant Matter Kitchen,Vegan,162 Wortley Rd,London,Ontario,N6C 3P7,613-555-4321,$30-$50,4.1,307
+Fauna,Canadian,425 Bank St,Ottawa,Ontario,K2P 1Y7,902-555-8765,$15-$25,4.7,389
+El Camino,Mexican,380 Elgin St,Ottawa,Ontario,K2P 1M9,416-555-2345,$40-$60,4.5,423
+Pure Kitchen,Vegan,357 Richmond Rd,Ottawa,Ontario,K2A 0E7,819-555-7890,$20-$30,4.0,236
+Sansotei Ramen,Japanese,153 Bank St,Ottawa,Ontario,K1P 5N7,450-555-3210,$10-$20,4.2,392
+Riviera,French,62 Sparks St,Ottawa,Ontario,K1P 5A5,514-555-6543,$20-$30,3.5,391
+Datsun,Asian Fusion,380 Elgin St,Ottawa,Ontario,K2P 1N1,867-555-2109,$10-$15,4.3,129
+Beckta Dining & Wine,Canadian,150 Elgin St,Ottawa,Ontario,K2P 1L4,250-555-3456,$11-$19,4.6,415
+Whalesbone Oyster House,Seafood,430 Bank St,Ottawa,Ontario,K2P 1Y8,902-555-9876,$12-$20,4.8,214
+Play Food & Wine,Canadian,1 York St,Ottawa,Ontario,K1N 5S7,613-555-1234,$40-$60,4.4,155
+The Shore Club,Seafood,11 Colonel By Dr,Ottawa,Ontario,K1N 9H4,587-555-6789,$10-$20,4.1,176
+Supply and Demand,Italian,1335 Wellington St W,Ottawa,Ontario,K1Y 3B7,819-555-4321,$20-$30,4.7,369
+The Wellington Diner,Canadian,1385 Wellington St W,Ottawa,Ontario,K1Y 2X1,450-555-8765,$5-$10,4.2,295
+Fraser Cafe,Canadian,7 Springfield Rd,Ottawa,Ontario,K1M 1C8,418-555-2345,$30-$50,4.3,324
+Sidedoor Contemporary Kitchen & Bar,Asian Fusion,18 York St,Ottawa,Ontario,K1N 5T5,902-555-7890,$15-$25,4.5,484
+Gezellig,Canadian,337 Richmond Rd,Ottawa,Ontario,K2A 0E7,613-555-3210,$40-$60,2.5,355
+MēNa,Canadian,276 Preston St,Ottawa,Ontario,K1R 7R5,250-555-6543,$20-$30,5.0,319
+El Furniture Warehouse,Pub Food,77 Clarence St,Ottawa,Ontario,K1N 5P5,705-555-2109,$10-$20,3.5,132
+North & Navy,Italian,226 Nepean St,Ottawa,Ontario,K2P 0B8,450-555-3456,$20-$30,4.6,203
+Art-Is-In Bakery,Bakery,250 City Centre Ave,Ottawa,Ontario,K1R 6K7,514-555-9876,$30-$50,4.1,187
+Ahora,Mexican,307 Dalhousie St,Ottawa,Ontario,K1N 7E8,902-555-1234,$20-$40,3.7,163
+La Bottega Nicastro,Italian,64 George St,Ottawa,Ontario,K1N 5V9,587-555-6789,$10-$30,4.9,290
+Corner Peach,Canadian,802 Bank St,Ottawa,Ontario,K1S 3V8,306-555-4321,$20-$30,4.4,219
+Town,Canadian,296 Elgin St,Ottawa,Ontario,K2P 1M3,418-555-8765,$5-$10,4.6,167
+Beckta Bakery,Bakery,226 Nepean St,Ottawa,Ontario,K2P 0B8,819-555-2345,$25-$65,4.0,314
+Town,Canadian,296 Elgin St,Ottawa,Ontario,K2P 1M3,250-555-7890,$15-$35,1.5,327
+Zak's Diner,Diner,14 ByWard Market Square,Ottawa,Ontario,K1N 7A1,450-555-3210,$20-$40,2.6,371
+La Cabaña,Latin American,848 Merivale Rd,Ottawa,Ontario,K1Z 5Z4,902-555-6543,$10-$30,4.3,387
+Corazon de Maiz,Mexican,55 ByWard Market Square,Ottawa,Ontario,K1N 9C3,514-555-2109,$30-$50,2.3,300
+Irene's Pub Restaurant,Canadian,885 Bank St,Ottawa,Ontario,K1S 3W4,613-555-3456,$20-$30,4.5,382
+Chez Lucien,Pub Food,137 Murray St,Ottawa,Ontario,K1N 5M7,587-555-9876,$5-$10,4.0,147
+The Hintonburg Public House,Canadian,1020 Wellington St W,Ottawa,Ontario,K1Y 2X9,705-555-1234,$30-$60,4.2,298
+El Furniture Warehouse,Pub Food,77 Clarence St,Ottawa,Ontario,K1N 5P5,819-555-6789,$15-25,3.5,214
+SuzyQ Doughnuts,Comfort Food.,969 Wellington St W,Ottawa,Ontario,K1Y 2X8,250-555-4321,$30-50,4.3,273
+Cilantro,Mexican,338 17 Ave SW,Calgary,Alberta,T2S 0A5,418-555-8765,$5-15,4.6,262
+The Himalayan,Nepalese,3218 17 Ave SW,Calgary,Alberta,T3E 0B4,613-555-2345,$10-$20,4.8,359
+The Nash,Canadian,925 11 St SE,Calgary,Alberta,T2G 3E5,902-555-7890,$40-$60,4.4,258
+Una Pizza + Wine,Pizza,618 17 Ave SW,Calgary,Alberta,T2S 0B4,450-555-3210,$10-$20,4.1,342
+Foreign Concept,Asian Fusion,1011 1 St SW,Calgary,Alberta,T2R 1J2,587-555-6543,$20-$30,4.7,417
+OEB Breakfast Co,Breakfast,824 Edmonton Trail NE,Calgary,Alberta,T2E 3J6,306-555-2109,$5-$10,4.5,424
+Bridgette Bar,Canadian,739 10 Ave SW,Calgary,Alberta,T2R 0B2,819-555-3456,$30-$50,4.0,141
+Modern Steak,Steakhouse,107 10A St NW,Calgary,Alberta,T2N 4M7,514-555-9876,$15-$25,4.2,470
+Model Milk,Canadian,308 17 Ave SW,Calgary,Alberta,T2S 0A3,250-555-1234,$40-$60,3.5,232
+Charbar,Argentinian,618 Confluence Way SE,Calgary,Alberta,T2G 0G1,902-555-6789,$20-$30,4.3,329
+Ten Foot Henry,Vegetarian,1209 1 St SW,Calgary,Alberta,T2R 0V3,613-555-4321,$10-$20,4.6,296
+Anju,Korean,344 17 Ave SW,Calgary,Alberta,T2S 0A5,450-555-8765,$20-$30,4.8,218
+Klein / Harris,Canadian,110 8 Ave SW,Calgary,Alberta,T2P 1B3,418-555-2345,$10-$15,4.4,315
+Shokunin,Japanese,2016 4 St SW,Calgary,Alberta,T2S 1W3,587-555-7890,$11-$19,4.1,304
+Pigeonhole,Canadian,306 17 Ave SW,Calgary,Alberta,T2S 0A5,819-555-3210,$12-$20,4.7,109
+Cibo,Italian,1012 17 Ave SW,Calgary,Alberta,T2T 0A5,902-555-6543,$40-$60,4.2,451
+Una Pizza + Wine,Pizza,618 17 Ave SW,Calgary,Alberta,T2S 0B4,705-555-2109,$10-$20,4.3,231
+Alloy,Canadian,220 42 Ave SE,Calgary,Alberta,T2G 1Y4,306-555-3456,$20-$30,4.5,310
+Cannibale,Cocktail Bar,813 1 Ave NE,Calgary,Alberta,T2E 0C2,514-555-1234,$5-$10,2.5,454
+Native Tongues Taqueria,Mexican,235 12 Ave SW,Calgary,Alberta,T2R 1H7,250-555-6789,$30-$50,5.0,197
+The Beltliner,Canadian,243 12 Ave SW,Calgary,Alberta,T2R 0G5,902-555-4321,$15-$25,3.5,498
+Anju,Korean,344 17 Ave SW,Calgary,Alberta,T2S 0A5,587-555-8765,$40-$60,4.6,201
+Sky 360,Canadian,101 9 Ave SW,Calgary,Alberta,T2P 1J9,450-555-2109,$20-$30,4.1,154
+Salt & Pepper Mexican Restaurant,Mexican,1413 9 Ave SE,Calgary,Alberta,T2G 0T4,819-555-3456,$10-$20,3.7,395
+Vin Room Mission,Tapas,2310 4 St SW,Calgary,Alberta,T2S 1X2,613-555-9876,$20-$30,4.9,280
+Pampa Brazilian Steakhouse,Brazilian,521 10 Ave SW,Calgary,Alberta,T2R 0A8,250-555-1234,$30-$50,4.4,418
+Black Pig Bistro,Canadian,825 1 Ave NE,Calgary,Alberta,T2E 0C2,902-555-6789,$20-$40,4.6,478
+Vero Bistro Moderne,French,209 10 St NW,Calgary,Alberta,T2N 1V5,418-555-4321,$10-$30,4.0,233
+Hayden Block Smoke & Whiskey,Barbecue,1136 Kensington Rd NW,Calgary,Alberta,T2N 3P3,587-555-8765,$20-$30,1.5,184
+Suzette Bistro,French,2210 4 St SW,Calgary,Alberta,T2S 1W9,450-555-2109,$5-$10,2.6,455
+Redwater Rustic Grille,Comfort Food.,9223 MacLeod Trail SE,Calgary,Alberta,T2J 0P6,819-555-6543,$25-$65,4.3,157
+The Bruce Craft House,Canadian,700 Hespeler Rd,Cambridge,Ontario,N3H 5L8,647-555-7890,$15-$35,2.3,494
+The Black Badger,Canadian,55 Water St N,Cambridge,Ontario,N1R 7L6,902-555-3456,$20-$40,4.5,196
+The Galt Club,Canadian,35 Dickson St,Cambridge,Ontario,N1R 1T6,306-555-8765,$10-$30,4.0,251
+Kiwi Gastropub,Canadian,47 Dickson St,Cambridge,Ontario,N1R 7A6,450-555-2345,$30-$50,4.2,327
+Grand Trunk Saloon,Canadian,30 Ontario St S,Cambridge,Ontario,N1R 1K1,819-555-4321,$20-$30,3.5,131
+Cafe 13 Main Street,Cafe,13 Main St,Cambridge,Ontario,N1R 1V6,613-555-2109,$5-$10,4.3,276
+St. Louis Bar & Grill,Bar and Grill,980 Franklin Blvd,Cambridge,Ontario,N1R 8R3,250-555-6543,$30-$60,4.6,365
+Sagano Sushi,Japanese,525 Saginaw Pkwy,Cambridge,Ontario,N1T 1S6,418-555-9876,$15-25,4.8,187
+La Hacienda Sarria,Mexican,1254 Union St,Cambridge,Ontario,N1R 7A5,902-555-1234,$30-50,4.4,188
+Boston Pizza,Pizza,14 Pinebush Rd,Cambridge,Ontario,N1R 8K5,587-555-6789,$5-15,4.1,405
+Ennio's Pasta House,Italian,698 King St E,Cambridge,Ontario,N3H 3N6,819-555-3456,$10-$20,4.7,118
+The Mill Road Butcher,Butcher Shop,17 Mill Rd,Cambridge,Ontario,N3H 4R7,514-555-2109,$40-$60,4.5,277
+Sizzle Shawarma and Grill,Middle Eastern,525 Saginaw Pkwy,Cambridge,Ontario,N1T 1S6,902-555-8765,$10-$20,4.0,438
+The Keg Steakhouse + Bar,Steakhouse,44 Pinebush Rd,Cambridge,Ontario,N1R 8K5,705-555-2345,$20-$30,4.2,329
+Boston Pizza,Pizza,14 Pinebush Rd,Cambridge,Ontario,N1R 8K5,587-555-7890,$5-$10,3.5,443
+Bella's Pizza,Pizza,3 Water St S,Cambridge,Ontario,N1R 3C4,250-555-3210,$30-$50,4.3,287
+The Gator's Tail,Cajun,970 Franklin Blvd,Cambridge,Ontario,N1R 7Z1,450-555-6543,$15-$25,4.6,500
+The Duke And Dutchess,Canadian,900 Jamieson Pkwy,Cambridge,Ontario,N3C 4N6,613-555-8765,$40-$60,4.8,1000
+Haru Sushi,Japanese,100 Jamieson Pkwy,Cambridge,Ontario,N3C 4B3,902-555-2345,$20-$30,4.4,300
+Moose Winooski's,Canadian,20 Cambridge St,Cambridge,Ontario,N1R 3R7,418-555-4321,$10-$20,4.1,200
+Yiannis Greek Restaurant,Greek,572 King St E,Cambridge,Ontario,N3H 3N2,819-555-2109,$20-$30,4.7,800
+Cafe 13 Main Street,Cafe,13 Main St,Cambridge,Ontario,N1R 1V6,306-555-7890,$10-$15,4.2,150
+La Scala Ristorante,Italian,10 Sheldon Dr,Cambridge,Ontario,N1R 6R8,587-555-1234,$11-$19,4.3,100
+The Black Badger,Canadian,55 Water St N,Cambridge,Ontario,N1R 7L6,705-555-6789,$12-$20,4.5,400
+Hespeler Village Restaurant,Canadian,27 Queen St E,Cambridge,Ontario,N3C 2A7,250-555-8765,$40-$60,2.5,600
+Kiwi Gastropub,Canadian,47 Dickson St,Cambridge,Ontario,N1R 7A6,902-555-3456,$10-$20,5.0,250
+The Bruce Craft House,Canadian,700 Hespeler Rd,Cambridge,Ontario,N3H 5L8,613-555-3210,$20-$30,3.5,350
+Sam's Grill,Seafood,15 Main St,Cambridge,Ontario,N1R 1V6,450-555-2109,$5-$10,4.6,125
+St. Louis Bar & Grill,Bar and Grill,980 Franklin Blvd,Cambridge,Ontario,N1R 8R3,418-555-6543,$30-$50,4.1,586
+The Keg Steakhouse + Bar,Steakhouse,44 Pinebush Rd,Cambridge,Ontario,N1R 8K5,819-555-4321,$15-$25,3.7,369
+The Merchant Kitchen,Asian Fusion,314 Donald St,Winnipeg,Manitoba,R3B 2J2,514-555-1234,$40-$60,4.9,756
+Falafel Place,Middle Eastern,1101 Corydon Ave,Winnipeg,Manitoba,R3M 0Z1,902-555-6789,$20-$30,4.4,248
+La Roca,Latin American,155 Smith St,Winnipeg,Manitoba,R3C 1J7,587-555-3456,$10-$20,4.6,359
+Blufish Sushi,Japanese,179 Bannatyne Ave,Winnipeg,Manitoba,R3B 0R4,705-555-2109,$20-$30,4.0,300
+Hermanos,Latin American,179 Bannatyne Ave,Winnipeg,Manitoba,R3B 0R4,250-555-7890,$30-$50,1.5,250
+Feast Cafe Bistro,Indigenous,587 Ellice Ave,Winnipeg,Manitoba,R3B 1Z7,819-555-6543,$20-$40,2.6,550
+Boon Burger Cafe,Vegan,79 Sherbrook St,Winnipeg,Manitoba,R3C 2B2,450-555-4321,$10-$30,4.3,630
+Miss Browns,Canadian,288 William Ave,Winnipeg,Manitoba,R3A 1P9,902-555-8765,$20-$30,2.3,120
+Rudy's Eat & Drink,Canadian,375 Graham Ave,Winnipeg,Manitoba,R3C 0L8,613-555-6789,$5-$10,4.5,348
+The Tallest Poppy,Canadian,685 Westminster Ave,Winnipeg,Manitoba,R3G 1A3,587-555-2109,$25-$65,4.0,751
+Underdogs,Mexican,260 Marion St,Winnipeg,Manitoba,R2H 0T7,418-555-3456,$15-$35,4.2,150
+Elements Restaurant,Canadian,599 Portage Ave,Winnipeg,Manitoba,R3B 2G3,306-555-1234,$20-$40,3.5,350
+Carbone Cafe Club,Italian,260 St Mary Ave,Winnipeg,Manitoba,R3C 0M6,819-555-7890,$10-$30,4.3,450
+Yujiro Japanese Restaurant,Japanese,1822 Grant Ave,Winnipeg,Manitoba,R3N 1Z8,250-555-2345,$30-$50,4.6,930
+Carnaval Brazilian BBQ,Brazilian,270 Waterfront Dr,Winnipeg,Manitoba,R3B 0A9,450-555-8765,$20-$30,4.8,100
+Acqua,Italian,4 - 1000 Taylor Ave,Winnipeg,Manitoba,R3M 3Z4,902-555-4321,$5-$10,4.4,120
+Corrientes Argentine Pizzeria,Argentine,137 Bannatyne Ave,Winnipeg,Manitoba,R3B 0R3,613-555-6543,$30-$60,4.1,300
+Peasant Cookery,Canadian,100 - 283 Bannatyne Ave,Winnipeg,Manitoba,R3B 3B2,418-555-2109,$15-25,4.7,400
+Pizzeria Gusto,Italian,404 Academy Rd,Winnipeg,Manitoba,R3N 0B8,587-555-7890,$30-50,4.5,125
+Sorrento's Restaurant,Italian,390 Corydon Ave,Winnipeg,Manitoba,R3L 0N6,819-555-3456,$5-15,4.0,341
+Kawaii Crepe,French,201 Portage Ave,Winnipeg,Manitoba,R3B 3K6,514-555-2109,$10-$20,4.2,362
+Prairie 360,Canadian,83 Garry St,Winnipeg,Manitoba,R3C 4J9,902-555-6543,$40-$60,3.5,141
+Shawarma Khan,Middle Eastern,225 McDermot Ave,Winnipeg,Manitoba,R3B 0S3,250-555-8765,$10-$20,4.3,386
+Hermanos,Latin American,179 Bannatyne Ave,Winnipeg,Manitoba,R3B 0R4,705-555-4321,$20-$30,4.6,129
+Cafe 22,Cafe,823 Corydon Ave,Winnipeg,Manitoba,R3M 0W6,450-555-1234,$5-$10,4.8,462
+The Nook Diner,Canadian,43 Sherbrook St,Winnipeg,Manitoba,R3C 2B2,819-555-6789,$30-$50,4.4,267
+Inferno's on Academy,Italian,414 Academy Rd,Winnipeg,Manitoba,R3N 0C2,306-555-3456,$15-$25,4.1,352
+Silver Heights Restaurant & Lounge,Canadian,2169 Portage Ave,Winnipeg,Manitoba,R3J 0L4,418-555-7890,$40-$60,4.7,360
+Brazen Hall Kitchen & Brewery,Canadian,800 Pembina Hwy,Winnipeg,Manitoba,R3M 2M7,613-555-8765,$20-$30,4.2,137
+The Canteen,Canadian,66 Ochterloney St,Dartmouth,Nova Scotia,B2Y 1C2,902-555-2345,$10-$20,4.3,221
+Lot Six,Cocktail Bar,1685 Argyle St,Halifax,Nova Scotia,B3J 2B5,587-555-2109,$20-$30,4.5,135
+The Wooden Monkey,Vegan,305-40 Alderney Dr,Dartmouth,Nova Scotia,B2Y 2N5,819-555-6543,$10-$15,2.5,212
+EDNA,Canadian,2053 Gottingen St,Halifax,Nova Scotia,B3K 3B2,250-555-7890,$11-$19,5.0,200
+enVie A Vegan Kitchen,Vegan,5775 Charles St,Halifax,Nova Scotia,B3K 1K9,450-555-4321,$12-$20,3.5,360
+The Bicycle Thief,Italian,1475 Lower Water St,Halifax,Nova Scotia,B3J 3Z2,902-555-8765,$10-$30,4.6,455
+Studio East Food + Drink,Asian Fusion,6021 Cunard St,Halifax,Nova Scotia,B3K 1E5,514-555-1234,$30-$50,4.1,177
+Primal Kitchen,Canadian,1463 Brenton St,Halifax,Nova Scotia,B3J 3S9,705-555-6789,$20-$30,3.7,240
+Lion and Bright,Cafe,2534 Agricola St,Halifax,Nova Scotia,B3K 4C5,587-555-3456,$5-$10,4.9,110
+The Carleton Music Bar & Grill,Canadian,1685 Argyle St,Halifax,Nova Scotia,B3J 2B5,306-555-8765,$30-$60,4.4,171
+Morris East,Pizza,5212 Morris St,Halifax,Nova Scotia,B3J 1B4,819-555-2109,$15-25,4.6,176
+The Auction House,Canadian,1726 Argyle St,Halifax,Nova Scotia,B3J 2B6,418-555-6543,$30-50,4.0,288
+Heartwood,Vegetarian,6250 Quinpool Rd,Halifax,Nova Scotia,B3L 1A4,902-555-2345,$5-15,1.5,188
+The Wooden Monkey,Vegan,1707 Grafton St,Halifax,Nova Scotia,B3J 2C6,613-555-7890,$10-$20,2.6,338
+2 Doors Down,Canadian,1533 Barrington St,Halifax,Nova Scotia,B3J 1Z4,450-555-2109,$40-$60,4.3,313
+Water & Bone,Korean,5687 Charles St,Halifax,Nova Scotia,B3K 1L1,819-555-4321,$10-$20,2.3,402
+Little Oak,Wine Bar,1475 Lower Water St,Halifax,Nova Scotia,B3J 3Z2,604-555-1234,$20-$30,4.5,420
+The Henry House,Irish Pub,1222 Barrington St,Halifax,Nova Scotia,B3J 1Y2,902-555-4321,$5-$10,4.0,474
+Sushi Nami Royale,Japanese,1535 Dresden Row,Halifax,Nova Scotia,B3J 3T1,819-555-2109,$30-$50,4.2,118
+The Foggy Goggle,Pub,1667 Argyle St,Halifax,Nova Scotia,B3J 2B5,306-555-7890,$15-$25,3.5,456
+Brooklyn Warehouse,Canadian,2795 Windsor St,Halifax,Nova Scotia,B3K 5E5,418-555-6543,$40-$60,4.3,233
+Agricola Street Brasserie,French,2540 Agricola St,Halifax,Nova Scotia,B3K 4C5,587-555-8765,$20-$30,4.6,256
+The Stubborn Goat Gastropub,Gastropub,1579 Grafton St,Halifax,Nova Scotia,B3J 2C3,705-555-2345,$10-$20,4.8,271
+The Argyle,Canadian,1575 Argyle St,Halifax,Nova Scotia,B3J 2B3,450-555-7890,$20-$30,4.4,311
+Antojo Tacos + Tequila,Mexican,1667 Argyle St,Halifax,Nova Scotia,B3J 2B5,902-555-2109,$10-$15,4.1,125
+Durty Nelly's Irish Pub,Irish Pub,5221 Sackville St,Halifax,Nova Scotia,B3J 1K2,613-555-8765,$11-$19,4.7,398
+Salvatore's Pizzaiolo Trattoria,Italian,5541 Young St,Halifax,Nova Scotia,B3K 1Z7,416-555-5678,$12-$20,4.6,362
+Darrell's Restaurant,Comfort Food.,5576 Fenwick St,Halifax,Nova Scotia,B3H 1H9,604-555-7890,$10-$15,4.8,292
